@@ -17,11 +17,7 @@ Learning path toward **Web App Pentesting → Red Team fundamentals** (labs & wr
 ### Scripts / Tools
 - [Scripts folder](scripts/)
 
-- ### cpp/ Tools
-- [cpp folder](cpp/)
 
-- - ### network
-- [network folder](networks/)
 
 ## Rules (Safety)
 - Only legal labs/CTFs (TryHackMe/HTB/Juice Shop/DVWA).
