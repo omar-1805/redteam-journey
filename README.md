@@ -20,6 +20,9 @@ Learning path toward **Web App Pentesting → Red Team fundamentals** (labs & wr
 - ### cpp/ Tools
 - [cpp folder](cpp/)
 
+- - ### network
+- [network folder](networks/)
+
 ## Rules (Safety)
 - Only legal labs/CTFs (TryHackMe/HTB/Juice Shop/DVWA).
 - No real targets, no credentials/tokens, no sensitive data in public repos.
